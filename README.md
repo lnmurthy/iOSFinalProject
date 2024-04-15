@@ -26,7 +26,7 @@ List down the major functionalities of your app. For example:
 
 ### Features Completed:
 
-1. **Real-time Updates:** Fetching real-time transit updates from the MTA API.
+1. **Real-time Updates:** Fetching distance data for users to see where the closest station to them is. We are testing with the longitude + latitude of City Hall in the Financial District. 
 
 
 ### Work in Progress GIF
