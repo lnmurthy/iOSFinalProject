@@ -30,4 +30,5 @@ List down the major functionalities of your app. For example:
 
 
 ### Work in Progress GIF
+https://github.com/lnmurthy/iOSFinalProject/assets/60281490/1e06deb2-bf27-46d2-a604-81ebcbc2f761
 
