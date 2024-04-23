@@ -1,6 +1,6 @@
 ## NYCTransit Hub - iOS 
 
-**Status:** In Progress
+**Status:** In Progress, Due Date: 4/23  
 
 
 ### Introduction
@@ -20,15 +20,15 @@ List down the major functionalities of your app. For example:
 
 ### Features in Progress:
 
-1. **User Authentication:** Implemented user authentication to allow users to create accounts and log in securely.
-2. **Transit Information:** Displaying information about routes, stops, fares, and service changes.
 3. **Search Functionality:** Implementing search functionality to allow users to search for specific routes, stops, or transit lines.
 
 ### Features Completed:
 
 1. **Real-time Updates:** Fetching distance data for users to see where the closest station to them is. We are testing with the longitude + latitude of City Hall in the Financial District. 
+2. **User Authentication:** Implemented user authentication to allow users to create accounts and log in securely.
+3. **Transit Information:** Displaying information about routes, stops, fares, and service changes.
 
 
-### Work in Progress GIF
+### NEW GIF
 https://github.com/lnmurthy/iOSFinalProject/assets/60281490/1e06deb2-bf27-46d2-a604-81ebcbc2f761
 
