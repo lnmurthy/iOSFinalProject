@@ -32,3 +32,10 @@ List down the major functionalities of your app. For example:
 ### NEW GIF
 https://github.com/lnmurthy/iOSFinalProject/assets/60281490/1e06deb2-bf27-46d2-a604-81ebcbc2f761
 
+
+### NEW APP GIF INCLUDED
+https://github.com/lnmurthy/iOSFinalProject/assets/60281490/1e06deb2-bf27-46d2-a604-81ebcbc2f761
+
+
+https://github.com/lnmurthy/iOSFinalProject/assets/60281490/cbeac701-41ca-4b11-b089-1784cbcc70f5
+
